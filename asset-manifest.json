@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/racha-coder/tic-tac-toe/static/css/main.f1cbb3d1.css",
-    "main.js": "/racha-coder/tic-tac-toe/static/js/main.17487890.js",
-    "index.html": "/racha-coder/tic-tac-toe/index.html",
-    "main.f1cbb3d1.css.map": "/racha-coder/tic-tac-toe/static/css/main.f1cbb3d1.css.map",
-    "main.17487890.js.map": "/racha-coder/tic-tac-toe/static/js/main.17487890.js.map"
+    "main.css": "/tic-tac-toe/static/css/main.f1cbb3d1.css",
+    "main.js": "/tic-tac-toe/static/js/main.17487890.js",
+    "index.html": "/tic-tac-toe/index.html",
+    "main.f1cbb3d1.css.map": "/tic-tac-toe/static/css/main.f1cbb3d1.css.map",
+    "main.17487890.js.map": "/tic-tac-toe/static/js/main.17487890.js.map"
   },
   "entrypoints": [
     "static/css/main.f1cbb3d1.css",
